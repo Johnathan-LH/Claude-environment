@@ -1,0 +1,6 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "每個 session/task 在目前 5 小時與一週額度窗口內消耗的 token 與估計百分比",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "claude-environment",
+  "owner": { "name": "johnathan-lh" },
+  "plugins": [{ "name": "token-meter", "source": "./token-meter" }]
+}
